@@ -56,31 +56,55 @@ Behavioral Interview
     We all failed sometimes in life.  The best example I can give you is when I was in college and I did not passed math class during my fresh year and I had to take it over.  The best way I was able to make sure that I passed was to get go for tutoring asap and it help to resolved the matter fast.  So when I went for Bachlors Degree, I made sure I got a tutor early and that helped to pass calculus without any difficulty.
 
 16. # Tell me about a time you had to be very strategic in order to meet all your top priorities.
+    Returning to the Real Estate Firm, many times the owners or the Operations Manager who would get his directions from the owners would come to me on the fly saying How fast can we incorporate another office into our envirenment?  While I was working on discommission one office, he wants me to incorate a new office into our enviroment.  While that couldn't be answer like in hours or days, I had to put that on priority list to get it done by getting all the hardwares and software I need to work in that new office.  To meet the expectation, I had to use the tools from the old office in the new office in order to incorporate it within 48 hours.
 
 17. # Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
 
+    After not going to school for a such a long time, I believe starting the training with Perscholas would be like starting a long term project for me.  The bootcamp training is 3 months long and during the three months, I have the opportunity to learn many technologies that I didn't know before. There are so many moving parts so in order to keep everything moving along in a timely manner, had to prioritized the requirments for the program such as the Knowledge check quizzes, Exit tickets, labs to help us put what we have learned in practice.  For me to be here today when bootcamp is almost a few weeks away, I consider that a project completed.
+
 18. # Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?
+
+Working for the Real Estate Firm has brought many experiences to my Repertoire in teh sense that I was the only person managing all aspect of technology for the entire company.  So it has been a few times overwhelm to handle many offices in different areas of Manhattan while you are already working a project so such emptying one office because we no longer needed and a new office is also needed to be part of the company's environment.  The best way I handled it when it got too much, was by talking to the office managers in each individual offices for them to help the agents in their offices.  Whatever, they can't help with or handle they can reach out to me.
 
 19. # Tell me about a time you set a goal for yourself. How did you go about ensuring that you would meet your objective?
 
+So far I have been good at achieving financial goals.  I would define how much I would like to save for the year and create a step by step to do so.  By year end, goal would always achieve.  On another note, my sales goals sometimes have been achieved and sometimes I missed them.  What I can say is that even when you don't achieve the overal goal, achieving a piece of the goal is always better than achieving anything at all.
+
+
 20. # Give me an example of a time you managed numerous responsibilities. How did you handle that?
+    Prioritizing is the best way to handle numerous responsiblities.  From my experience, not all task will have the same level of importance.  If company were to lose access to internet and a few people's computer won't start, even when we have internet, it is obvious I have to prioritize the bigger picture and then come back to the smaller situations.  So know what is top priority is the best way to managed multiple responsibilities. 
 
 21. # Give me an example of a time when you were able to successfully persuade someone to see things your way at work.
 
+The power of persuation is very powerful.  In both capacities my job was to persuade members of the respective companies why I was recommending the type of tools I was recommending.  For example working for Real Estate Firm, they had local outlook as the email system which always depening on the internet, the server and many other factors.  After we experience how much time and money it would cost to keep it going that way, I present Gsuits to the company and it took a while.  Finally we agreed.  The problem was the cost of GSuits.  You have to pay for each license vs microsoft was just one license.  So, it took power of persuasion to have the company move from local email service provider to Cloud Email Provider.
+
 22. # Describe a time when you were the resident technical expert. What did you do to make sure everyone was able to understand you?
+    While working for CUNY, I became the Help Desk Manager Temporary and it was a challenge at first for the people to listen but that is when experience and how to lead a team came handy.  To help everyone to understand me, we had meetings as a group and left my office open for anyone who wanted to come for one-on-one sessions for better clarity.
 
 23. # Tell me about a time when you had to rely on written communication to get your ideas across to your team.
 
+    Presentation to a group of people from different backgrounds, is always the best way to communcation ideas to a team of people.  While I am in this bootcamp in Perscholas, we have to do presentations to the class and each person presentations is unique their ideas.  I like to use presentations to communicate my ideas.
+
 24. # Give me an example of a time when you had to explain something fairly complex to a frustrated client. How did you handle this delicate situation?
+    Explaining the difference between they types of life insurance we have is always a complex topic for most.  Yes, I have had clients who couldn't understand the diffence between Whole Life Insurance and Term Life insurance because they always see term as a product they loose their money.  So drawing it on paper or on the screen is always a good way to illistrate it visualy.
 
 25. # Tell me about a successful presentation you gave and why you think it was a hit.
 
+    A successful presentation I gave is the ability to present a product to you and base on the presentation it becomes clear to you.  In the end of the presentation you agree to buy the product.  I conside that a success because if you did not like the presentation, you would not be interested in seing the recommendation and finally purchase the recommendated product.  
+
+
 26. # Tell me about your proudest professional accomplishment.
 
+    I am proud that I am accomplishing the bootcamp with Perscholas.  I am proud that I managed an IT department by myself for 5 years.  I am proud to know that there are many milestones in life I need to accomplish.
+
 27. # Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it.
+    I have taken the initiative to teach my colleagues on how to create powerpoint presentations instead of holding a paper to present their ideas.
 
 28. # Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
+There was a time in college, I worked with a supervisor who was real closed with her supervision.  She wanted to know what I was doing every moment of the day and one day she said you know what, you don't have to come when I am not here. I accept.  The next time I saw her, I asked her why she made that change.  She said because she wasn't sure if I were doing the job when she not there.  I explained to her, all task she assign to me, I always accomplish them.  At the same time, I worked with a loose supervisor where things worked out great.  They realized about me that I do not need to be supervised before the job can be done.
 
 29. # Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?
-
+        In college I had to write a business plan to create a business and present it to the class.  During those days pwerpoint was not widely used so when I presented my presentation using powerpoint, everyone were excited about it and I was impressed with the way the presentation turn out.  The difficult part was very minimum. 
 30. # Tell me about a time you were dissatisfied in your work. What could have been done to make it better?
+
+    Circeling back to working for CUNY when I was in charge to install Outlook in the secretary's computer and it failed, i was very dissatisfied about the service I provided.  What I could have done to avoid it, I could have ask ahead of time if there were any changes to the outlook rollout.

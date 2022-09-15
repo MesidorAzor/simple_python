@@ -135,13 +135,77 @@ Finally, the Classic Load Balancer provides basic load balancing across multiple
 
 21. How do you monitor the performance of your customer’s workload? You can monitor the performance of your customer’s workload by using Amazon CloudWatch.
 
-Module 3 
-22. IAM is used to manage users and groups. What else can IAM do? IAM enables you to:
+# Module 3 
+22. # IAM is used to manage users and groups. What else can IAM do? IAM enables you to:
 Manage IAM users and their access. You can create users in IAM and assign individual security credentials to these users. Or
 Manage IAM roles and their permissions. You can create roles in IAM and manage permissions to control which operations can be performed by the entity, or the AWS service that assumes the role.
 Or
 Manage federated users and their permissions. You can enable identity federation to allow existing identities (users, groups, and roles) from your corporate directory to access the AWS Cloud.
-And
+And You can manage what resources can access, such as whether a resource can terminate EC2 instances. You can also define required credentials based on context, including who accesses which service and what the actions that they are trying to take.
+
+23. # You must attach the same policy to multiple IAM users that require the same permissions. What is the best way to do this action?
+
+When you must attach the same policy to multiple IAM users, you should put all the users in a group. You should then attach the policy to the group instead of attaching the policy individually to each user
+
+# Module 5 
+24. What are the benefits of using AWS Cost Explorer?
+
+AWS Cost Explorer enables you to explore your AWS costs and usage at both a high level and at a detailed level of analysis.
+
+25. # What is AWS Budgets, and how does it work?
+
+AWS Budgets enables you to set a budget that alerts you when you exceed a specified level. You can also use AWS Budgets to forecast your budgeted costs or usage amount. You can also set alerts based on customer use.
+
+ # Define a list and tuple in Python. Provide some examples.
+
+ The obvious difference is the use of square brackets [] in List and parentheses () in tuple as enclosures. However, the important difference is that List as a mutable object and Tuple is an immutable object.
+
+If contents of an object can be modified in place, after it has been instantiated, is a mutable object. On the other hand, any operation on immutable object that tries to modify its contents is prohibited.
+
+# What is a namespace in Python?
+A namespace is a collection of currently defined symbolic names along with information about the object that each name references. 
+
+# What is the difference between a local variable and a global variable?
+
+A global variable is a variable that is accessible globally. A local variable is one that is only accessible to the current scope, such as temporary variables used in a single function definition.
+
+# Example
+In the given code
+
+q = "I love coffee" # global variable
+def f():
+    p = "Me Tarzan, You Jane." # local variable
+    print p
+ f()
+print q
+Output
+The output is as follows
+
+Me Tarzan, You Jane.
+I love coffee
+In the given code, p is a local variable, local to the function f(). q is a global variable accessible anywhere in the module.
+
+# What is an IDE? 
+An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
+
+IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
+
+## Mention some common IDEs that could be used with Python.
+- Pydev.
+- Pycharm.
+- Sublime Text.
+- Visual Studio Code.
+- Vim.
+- GNU/Emacs.
+- Atom/Atom-IDE.
+- IDLE.
+
+# What are modules in Python?
+
+In Python, Modules are simply files with the “. py” extension containing Python code that can be imported inside another Python Program.  we can consider a module to be the same as a code library or a file that contains a set of functions that you want to include in your application.
+
+## Provide some examples
+example.py , is called a module, and its module name would be example .
 
 
 
